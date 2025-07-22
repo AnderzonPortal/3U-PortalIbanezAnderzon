@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Colores de fondo -->
-    <color name="calculator_background">#F5F5F5</color>
+    <color name="calculator_background">#F8F8F8</color>
     <color name="display_background">#FFFFFF</color>
 
     <!-- Colores de texto -->
